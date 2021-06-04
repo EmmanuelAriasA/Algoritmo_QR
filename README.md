@@ -24,7 +24,7 @@ The program will have the inputs:
   1. Matrix size
   2. Elements of the array
 
-and will deliver as
+and deliver as a result:
 
   1. The actual eigenvalues of the array.
 
