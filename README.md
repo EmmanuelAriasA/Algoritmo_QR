@@ -19,7 +19,7 @@ Donde la matriz Qi es una matriz ortogonal y Ri es una matriz triangular superio
 
 This program uses the QR algorithm to factorize a square matrix mxm.
 
-The program will have the:
+The program will have the inputs:
 
   1. Matrix size
   2. Elements of the array
